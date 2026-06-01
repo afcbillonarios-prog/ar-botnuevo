@@ -1,0 +1,35 @@
+[
+  {
+    "id": "COL_20260615_01",
+    "local": "Independiente Santa Fe",
+    "visitante": "Millonarios FC",
+    "fecha": "2026-06-15",
+    "hora": "18:15",
+    "estadio": "El Campin, Bogota",
+    "competicion": "Liga BetPlay DIMAYOR 2026",
+    "etapa": "Playoffs",
+    "liga": "colombia"
+  },
+  {
+    "id": "COL_20260614_02",
+    "local": "Junior de Barranquilla",
+    "visitante": "Deportes Tolima",
+    "fecha": "2026-06-14",
+    "hora": "17:30",
+    "estadio": "Metropolitano Roberto Melendez, Barranquilla",
+    "competicion": "Liga BetPlay DIMAYOR 2026",
+    "etapa": "Playoffs",
+    "liga": "colombia"
+  },
+  {
+    "id": "COL_20260611_03",
+    "local": "Atletico Nacional",
+    "visitante": "Junior de Barranquilla",
+    "fecha": "2026-06-11",
+    "hora": "21:15",
+    "estadio": "Atanasio Girardot, Medellin",
+    "competicion": "Liga BetPlay DIMAYOR 2026",
+    "etapa": "Playoffs",
+    "liga": "colombia"
+  }
+]
